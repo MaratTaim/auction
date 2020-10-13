@@ -24,7 +24,7 @@
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <wildfly-maven-plugin.version>2.1.0.Beta1</wildfly-maven-plugin.version>
         <javaee-web-api.version>7.0</javaee-web-api.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <commons-lang3.version>3.9</commons-lang3.version>
         <hibernate.version>5.2.6.Final</hibernate.version>
         <postgresql.version>42.2.2.jre7</postgresql.version>
